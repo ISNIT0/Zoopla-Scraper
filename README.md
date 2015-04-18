@@ -1,5 +1,4 @@
-# NPM-Zoopla-Scraper
-Zoopla Scraper
+# Zoopla-Scraper
 
 
 2 Methods:

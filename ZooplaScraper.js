@@ -22,7 +22,7 @@ module.exports = {
   detail:function(id){
     var $ = cheerio.load(request('GET', "http://www.zoopla.co.uk/for-sale/details/"+id).getBody());
     return {
-      listingHeader:'listing-details-h1',
+      listingHeader:$('.listing-details-h1').text().trim(),
       beds:$('.num-icon.num-beds').text(),
       floorplan:$('.floorplan-img').attr('src'),
       agent:$('#listings-agent strong>a').eq(0).text(),

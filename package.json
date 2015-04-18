@@ -1,0 +1,21 @@
+{
+  "name": "ZooplaScraper",
+  "version": "0.1.0",
+  "description": "Easily scrape zoopla property data.",
+  "author": "Joe Reeve <joseph.reeve@googlemail.com>",
+  "dependencies": {
+    "cheerio": "0.19.x",
+    "sync-request": "2.x.x"
+  },
+  "engine": "node >= 0.4.1",
+  "main": "ZooplaScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Zoopla",
+    "property",
+    "scraper"
+  ],
+  "license": "ISC"
+}

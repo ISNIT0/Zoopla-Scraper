@@ -1,5 +1,5 @@
 {
-  "name": "ZooplaScraper",
+  "name": "zoopla-scraper",
   "version": "0.1.0",
   "description": "Easily scrape zoopla property data.",
   "author": "Joe Reeve <joseph.reeve@googlemail.com>",
@@ -17,5 +17,13 @@
     "property",
     "scraper"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ISNIT0/Zoopla-Scraper"
+  },
+  "bugs": {
+    "url": "https://github.com/ISNIT0/Zoopla-Scraper/issues"
+  },
+  "homepage": "https://github.com/ISNIT0/Zoopla-Scraper"
 }

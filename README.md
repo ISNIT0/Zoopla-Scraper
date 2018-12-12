@@ -1,5 +1,5 @@
 # Zoopla-Scraper
-
+![Safe NPM](https://safenpm.herokuapp.com/status/zoopla-scraper.png)
 
 2 Methods:
 * byLocation( string Location e.g. 'SW10'||'London' ) - Lists first 9999 properties within location provided (SW10)
